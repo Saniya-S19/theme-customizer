@@ -53,7 +53,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/theme-customizer.git
+   git clone https://github.com/Saniya-S19/theme-customizer
 2. Open the folder:
    cd theme-customizer
 3. Launch the project:
